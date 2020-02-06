@@ -1,0 +1,2 @@
+1) Implement a KNN model to classify the animals in to categories. 
+2) Prepare a model for glass classification using KNN
